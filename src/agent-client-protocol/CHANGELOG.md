@@ -2,6 +2,13 @@
 
 ## [Unreleased]
 
+## [5.4.1](https://github.com/agentclientprotocol/rust-sdk/compare/v5.4.0...v5.4.1) - 2026-11-19
+
+### Fixed
+
+- *(acp)* stop the v2 examples from cancelling a child session ([#510](https://github.com/agentclientprotocol/rust-sdk/pull/510))
+- *(acp)* align v2 cancellation and session setup with the protocol ([#509](https://github.com/agentclientprotocol/rust-sdk/pull/509))
+
 ## [5.4.0](https://github.com/agentclientprotocol/rust-sdk/compare/v5.3.0...v5.4.0) - 2026-11-18
 
 ### Added
